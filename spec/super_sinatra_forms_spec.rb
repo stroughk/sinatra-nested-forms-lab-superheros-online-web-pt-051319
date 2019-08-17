@@ -42,7 +42,7 @@ describe App do
       expect(page).to have_text("Hero Name: Katie")
       expect(page).to have_text("Hero Power: Sinatra")
       expect(page).to have_text("Hero Biography: I love Sinatra!")
-    end
+  #  end
   end
 
 end
